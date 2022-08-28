@@ -7,3 +7,18 @@ body{
     width: 70%;
     padding: 10px;
 }
+
+#calculation{
+    border: 2px solid black;
+    width: 65%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#calculation h2{
+    text-align: center;
+}
+
+.product span{
+    margin-left: 40px;
+}
